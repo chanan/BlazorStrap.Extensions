@@ -7,4 +7,4 @@ So far there is one control:
 
 Documentation will be provided at https://blazorstrap.io
 
-NOTE: The is a work in progress and the control and documentation are not ready yet
+NOTE: The control is a work in progress and the control and documentation are not ready yet
