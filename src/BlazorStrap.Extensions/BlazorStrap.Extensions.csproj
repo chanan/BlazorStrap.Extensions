@@ -15,10 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="Toolbelt.Blazor.SpeechRecognition" Version="0.0.2.1-alpha" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\..\..\BlazorStrap\src\BlazorStrap\BlazorStrap.csproj" />
+    <PackageReference Include="BlazorStrap" Version="1.0.0-preview7-01" />
   </ItemGroup>
 
 </Project>
