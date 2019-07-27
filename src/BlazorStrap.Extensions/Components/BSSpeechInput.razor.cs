@@ -11,7 +11,7 @@ using Toolbelt.Blazor.SpeechRecognition;
 
 namespace BlazorStrap.Extensions
 {
-    public class CodeBSSpeachInput : CodeBSInput , IDisposable
+    public class CodeBSSpeechInput : CodeBSInput , IDisposable
     {
         [Parameter]
         internal string Lable { get; set; }

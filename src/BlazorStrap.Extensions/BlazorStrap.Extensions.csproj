@@ -10,10 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Components\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Toolbelt.Blazor.SpeechRecognition" Version="0.0.2.1-alpha" />
     <PackageReference Include="BlazorStrap" Version="1.0.0-preview7-01" />
   </ItemGroup>
